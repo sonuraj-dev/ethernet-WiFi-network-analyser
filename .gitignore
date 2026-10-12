@@ -25,3 +25,19 @@ logs/serial/
 /socket
 /statistics
 /time
+
+# Local dashboard data
+/data/*.sqlite3
+/data/*.csv
+/logs/serial/*
+!/logs/serial/.gitkeep
+
+# Local backups and generated artifacts
+/backups/
+/data/*.sqlite3
+/data/*.db
+/data/*.csv
+*.log
+
+# Wi-Fi credentials for standalone responder
+/firmware/wifi_udp_responder/src/wifi_credentials.h
