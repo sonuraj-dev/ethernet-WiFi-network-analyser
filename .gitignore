@@ -20,3 +20,8 @@ logs/serial/
 # Local firmware files containing hard-coded Wi-Fi credentials
 /espwow500udp.cpp
 /wifisetup.cpp
+
+# Existing large PostScript documents; retain locally
+/socket
+/statistics
+/time
