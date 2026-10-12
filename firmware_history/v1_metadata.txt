@@ -1,0 +1,9 @@
+Version: v1_w5500_udp_responder
+Date: 2026-10-12T18:12:01+05:30
+Purpose: Working W5500 Ethernet UDP echo responder
+Firmware source: src/main.cpp
+Firmware SHA-256:
+519924a9e47591da78568c3909199d507af1f8e0a877b51267325adfc40a3fb6  src/main.cpp
+
+PlatformIO configuration:
+56fb3f5a1b85e059fb5bbb23cefee91e4e3342e368aaf600797c20f3b86d09be  platformio.ini
