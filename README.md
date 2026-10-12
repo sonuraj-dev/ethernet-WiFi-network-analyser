@@ -168,3 +168,26 @@ Issues, bug reports, documentation improvements and tested feature contributions
 ## License
 
 This project is intended to be released under the MIT License. See `LICENSE`.
+
+## Screenshots
+
+### Live Dashboard
+![Live dashboard with Ethernet and Wi-Fi test status](docs/screenshots/dashboard-live-overview.png)
+
+### Live Latency Charts
+![Live round-trip latency charts for Ethernet and Wi-Fi](docs/screenshots/live-latency-charts.png)
+
+### Ethernet vs Wi-Fi Comparison
+![Completed experiment report and latency comparison](docs/screenshots/experiment-comparison.png)
+
+### Packet History
+![Saved network experiments and packet-level history](docs/screenshots/packet-history.png)
+
+### Serial Consoles
+![Serial console interface for both ESP32 boards](docs/screenshots/serial-consoles.png)
+
+### Firmware and Git History
+![Firmware history and project files](docs/screenshots/firmware-and-git-history.png)
+
+### Hardware Setup
+![ESP32 and W5500 Ethernet analyser hardware](docs/screenshots/hardware-setup.jpeg)
